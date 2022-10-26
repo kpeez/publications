@@ -24,18 +24,8 @@
 
 1. **Puhger K**, Wilmot J, Wiltgen B (2019) Post-shock hippocampal activity supports trace fear conditioning: A potential role for replay. Presented at the Pavlovian Society Annual Meeting, Vancouver, BC Canada Oct 2019
 
-2. Krueger J, Wilmot J, Teratani-Ota Y, **Puhger K**, Nemes S, Wiltgen B (2019) The Contribution of the Dorsal Hippocampus to Memory Retrieval for Context Fear. Pavlovian Society Annual Meeting, San Diego, CA Oct 2019
+2. **Puhger K**, Wilmot J, Wiltgen B (2018) Neural circuits underlying trace fear conditioning. Presented at the Society for Neuroscience Annual Meeting, San Diego, CA Nov 2018
 
-3. **Puhger K**, Wilmot J, Wiltgen B (2018) Neural circuits underlying trace fear conditioning. Presented at the Society for Neuroscience Annual Meeting, San Diego, CA Nov 2018
+3. **Puhger K**, Wilmot J, Wiltgen B (2018) Hippocampal involvement in memory for non-overlapping events. Presented at the annual meeting of the Molecular and Cellular Cognition Society, San Diego, CA Nov 2018
 
-4. **Puhger K**, Wilmot J, Wiltgen B (2018) Hippocampal involvement in memory for non-overlapping events. Presented at the annual meeting of the Molecular and Cellular Cognition Society, San Diego, CA Nov 2018
-
-5. **Puhger K**, Wilmot J, Wiltgen B (2018) Hippocampal circuits underlying discontiguous stimulus associations. Presented at the Bay Area Memory Meeting, Davis, CA Aug 2018
-
-6. Graham J, Wilmot J, **Puhger K**, Wiltgen B (2017) The Role of the Ventral Hippocampus in Contextual Fear Conditioning. Presented at the Society for Neuroscience Annual Meeting, Washington, D.C. Nov 2017
-
-7. Silverman J, Pride M, Hayes J, **Puhger K**, Crawley J (2014) R-baclofen, a GABA B receptor agonist, reverses social deﬁcits and reduces repetitive behavior in mouse models of autism. Society for Neuroscience, Washington, D.C. Nov 2014
-
-8. Stankevich B, **Puhger K**, Geng J (2013) Task information overrides attentional capture by reward-associated stimuli. Poster presented at the Vision Sciences Society 13th Annual Meeting, Naples, FL May 2013
-
-9. **Puhger K**, Stankevich B, Geng J (2013) Reward and Salience: The Competition For Attentional Selection. UC Davis 24th Annual Undergraduate Research Conference, Davis, CA April 2013
+4. **Puhger K**, Wilmot J, Wiltgen B (2018) Hippocampal circuits underlying discontiguous stimulus associations. Presented at the Bay Area Memory Meeting, Davis, CA Aug 2018
