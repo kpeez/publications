@@ -19,13 +19,3 @@
 8. Flannery B, Silverman J, Bruun D, **Puhger K**, Crawley J, and Lein P (2015). Behavioral Assessment of NIH Swiss Mice Acutely Intoxicated with Tetramethylenedisulfotetramine. *Neurotoxicology and Teratology*, 47:36-45. [https://doi.org/10.1016/j.ntt.2014.10.008](https://doi.org/10.1016/j.ntt.2014.10.008)
 
 9. Bales K, Solomon M, Jacob S, Crawley J, Silverman J, Sahagun E, **Puhger K**, Pride M, Mendoza S (2014). Long-term exposure to intranasal oxytocin in a mouse autism model. *Translational Psychiatry*, 4, e480; 1–10, [https://doi.org/10.1038/tp.2014.117](https://doi.org/10.1038/tp.2014.117)
-
-## Poster Presentations
-
-1. **Puhger K**, Wilmot J, Wiltgen B (2019) Post-shock hippocampal activity supports trace fear conditioning: A potential role for replay. Presented at the Pavlovian Society Annual Meeting, Vancouver, BC Canada Oct 2019
-
-2. **Puhger K**, Wilmot J, Wiltgen B (2018) Neural circuits underlying trace fear conditioning. Presented at the Society for Neuroscience Annual Meeting, San Diego, CA Nov 2018
-
-3. **Puhger K**, Wilmot J, Wiltgen B (2018) Hippocampal involvement in memory for non-overlapping events. Presented at the annual meeting of the Molecular and Cellular Cognition Society, San Diego, CA Nov 2018
-
-4. **Puhger K**, Wilmot J, Wiltgen B (2018) Hippocampal circuits underlying discontiguous stimulus associations. Presented at the Bay Area Memory Meeting, Davis, CA Aug 2018
