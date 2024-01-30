@@ -2,9 +2,9 @@
 
 ## Publications
 
-1. **Puhger K**, Wiltgen B (2022). The hippocampus contributes to retroactive stimulus associations in trace fear conditioning. *bioRxiv* doi: <https://doi.org/10.1101/2022.10.17.512614>
+1. **Puhger K**, Crestani AP, Diniz CR, Wiltgen B (2024). The hippocampus contributes to retroactive stimulus associations in trace fear conditioning. *iScience* doi: <https://doi.org/10.1016/j.isci.2024.109035>
 
-2. Wilmot J, Diniz C, Crestani A, **Puhger K**, Roshgadol J, Tian L, Wiltgen B (2023). Phasic locus coeruleus activity enhances trace fear conditioning by increasing dopamine release in the hippocampus. *bioRxiv*. doi: <https://www.biorxiv.org/content/10.1101/2022.10.17.512590v3>
+2. Wilmot J, Diniz C, Crestani A, **Puhger K**, Roshgadol J, Tian L, Wiltgen B (2023). Phasic locus coeruleus activity enhances trace fear conditioning by increasing dopamine release in the hippocampus. *eLife*. doi: <https://doi.org/10.7554/eLife.91465.1>
 
 3. Krueger J, Wilmot J, Teratani-Ota Y, **Puhger K**, Nemes S, Wiltgen B (2020). Amnesia for context fear is caused by widespread disruption of hippocampal activity. *Neurobiology of Learning and Memory*. doi: [https://doi.org/10.1016/j.nlm.2020.107295](https://doi.org/10.1016/j.nlm.2020.107295)
 
